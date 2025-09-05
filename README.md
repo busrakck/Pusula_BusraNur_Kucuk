@@ -1,5 +1,4 @@
 # Pusula_BusraNur_Kucuk
-# Pusula Data Science Intern Case (2025)
 
 **Ad Soyad:** Büşra Nur Küçük  
 **Email:** busranurrkucuk@gmail.com  
