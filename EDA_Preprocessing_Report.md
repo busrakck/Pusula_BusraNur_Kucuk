@@ -23,12 +23,11 @@
 - **Cinsiyet:** Dağılım eşit değil.
 - **Kan Grubu:** 8 farklı tip standardize edildi.
 - **Uyruk:** Çoğunluk Türk vatandaşlarından oluşuyor.
-- **Bölüm:** Bazı bölümlerde yoğunluk var.
-- **Tedavi Adı:** Belirli tedaviler öne çıkıyor.
+- **Bölüm:** Fiziksel Tıp ve Rehabilitasyon,Solunum Merkezi öne çıkmaktadır.
+- **Tedavi Adı:** Dorsalji--Boyun+Trapez en çok bulunan tedavi adıdır.
 
 ### Çok-Değerli Değişkenler
 - `KronikHastalik`, `Alerji`, `Tanilar`, `UygulamaYerleri` birden fazla değer içerebilir.
-- En sık görülenler: Astım, Diyabet (KronikHastalık), Toz Alerjisi (Alerji).
 
 ---
 
